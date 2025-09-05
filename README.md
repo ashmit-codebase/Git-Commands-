@@ -11,7 +11,7 @@ A collection of useful Git commands with explanations
 2 : git clone <COPY LINK> => CLONING REPO
 
 ## Logs
-1 : git status => TO CHECK STATUS <br
+1 : git status => TO CHECK STATUS <br>
 2 : git log    => TO CHECK HISTORY <br>
 3 : git diff   => TO SEE CHANGES
 
