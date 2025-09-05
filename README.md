@@ -1,5 +1,8 @@
 
-### git
+# GIT
+It is a version control system and a tool that helps to track changes in the code.
+It is popular because :- It is free and open source 
+                      :- It is fast and scalable
 
 
 
