@@ -3,7 +3,7 @@ A collection of useful Git commands with explanations
 <br>
  
 ## Setup and Configuration
-1 : git config --global user.name "YOUR NAME"    => TO SET USERNAME
+1 : git config --global user.name "YOUR NAME"    => TO SET USERNAME <br>
 2 : git config --global user.email "YOUR EMAIL"  => TO SET EMAIL ID
 
 ## Starting Repo
