@@ -12,7 +12,7 @@ Functions :- <br>
 # GITHUB
 It is a website or an app that allows developers to store and manage their code and project using git.
 
-# Git-Commands-
+# GIT COMMANDS
 A collection of useful Git commands with explanations
 <br>
  
@@ -30,8 +30,10 @@ A collection of useful Git commands with explanations
 2 : git log    => TO CHECK HISTORY <br>
 3 : git diff   => TO SEE CHANGES
 
+## Initing
+1 : git remote add origin <LINK>  <br>
+2 : git remote -v <br>
 
- 
 
 
 
