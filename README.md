@@ -41,6 +41,11 @@ A collection of useful Git commands with explanations
 4 : git push origin main    => PUSHING CODE<br>
 5 ; git push                => PUSHING CODE<br>
 
-
+## Branch Commands 
+1 : git branch                           => CHECK BRANCH  <br>
+2 : git branch -M main                   => RENAME BRANCH <br>
+3 : git checkout <-BRANCH NAME->         => NAVIGATE TO OTHER BRANCH <br>
+4 : git checkout -b <-NEW BRANCH NAME->  => CREATE NEW BRANCH <br>
+5 : git branch -d <-BRANCH NAMED>        => DELETE BRANCH <br>
 
 
