@@ -2,10 +2,11 @@
 A collection of useful Git commands with explanations
 <br>
  
+## Setup and Configuration
 
 
-# GIT COMMANDS GUIDE
+
+ 
 
 
-# Setup and Cnfguration
-# how to use      jjj
+
