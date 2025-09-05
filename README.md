@@ -7,12 +7,12 @@ A collection of useful Git commands with explanations
 2 : git config --global user.email "YOUR EMAIL"  => TO SET EMAIL ID
 
 ## Starting Repo
-1 : git init => TO INITIALIZE NEW REPO
+1 : git init => TO INITIALIZE NEW REPO <br>
 2 : git clone <COPY LINK> => CLONING REPO
 
 ## Logs
-1 : git status => TO CHECK STATUS
-2 : git log    => TO CHECK HISTORY
+1 : git status => TO CHECK STATUS <br
+2 : git log    => TO CHECK HISTORY <br>
 3 : git diff   => TO SEE CHANGES
 
 
