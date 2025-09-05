@@ -31,8 +31,15 @@ A collection of useful Git commands with explanations
 3 : git diff   => TO SEE CHANGES
 
 ## Initing
-1 : git remote add origin <- LINK->  <br>  
+1 : git remote add origin <- LINK->  
 2 : git remote -v <br>
+
+## Adding, Commiting & Pushing
+1 : git add .               => EDITING CODE <br>
+2 : git add <-file name->   => EDITING CODE <br>
+3 : git commit -m "MESSAGE" => COMMITING CHANGES <br>
+4 : git push origin main    => PUSHING CODE<br>
+5 ; git push                => PUSHING CODE<br>
 
 
 
