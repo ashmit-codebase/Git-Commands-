@@ -31,7 +31,7 @@ A collection of useful Git commands with explanations
 3 : git diff   => TO SEE CHANGES
 
 ## Initing
-1 : git remote add origin <LINK>  <br>
+1 : git remote add origin <COPY LINK>  <br>  
 2 : git remote -v <br>
 
 
