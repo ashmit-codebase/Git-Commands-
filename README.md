@@ -23,7 +23,7 @@ A collection of useful Git commands with explanations
 
 ## Starting Repo
 1 : git init => TO INITIALIZE NEW REPO <br>
-2 : git clone <COPY LINK> => CLONING REPO
+2 : git clone <-COPY LINK-> => CLONING REPO
 
 ## Logs
 1 : git status => DISPLAY STATE OF THE CODE <br>
@@ -31,7 +31,7 @@ A collection of useful Git commands with explanations
 3 : git diff   => TO SEE CHANGES
 
 ## Initing
-1 : git remote add origin <COPY LINK>  <br>  
+1 : git remote add origin <- LINK->  <br>  
 2 : git remote -v <br>
 
 
