@@ -28,7 +28,8 @@ A collection of useful Git commands with explanations
 ## Logs
 1 : git status => DISPLAY STATE OF THE CODE <br>
 2 : git log    => TO CHECK HISTORY <br>
-3 : git diff   => TO SEE CHANGES
+3 : git diff   => TO SEE CHANGES <br>
+4 : git merge <-BRANCH NAME->  (MERGING BRANCHES)
 
 ## Initing
 1 : git remote add origin <- LINK->  
