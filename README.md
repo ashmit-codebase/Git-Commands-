@@ -5,6 +5,9 @@ It is popular because :-<br>
 1- It is free and open source                            
 2- It is fast and scalable
 
+Functions :- <br>
+1- It tracks the history
+2- It collaborate with the changes
 
 
 # Git-Commands-
