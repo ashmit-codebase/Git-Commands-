@@ -4,6 +4,16 @@ A collection of useful Git commands with explanations
  
 ## Setup and Configuration
 1 : git config --global user.name "YOUR NAME"    => TO SET USERNAME
+2 : git config --global user.email "YOUR EMAIL"  => TO SET EMAIL ID
+
+## Starting Repo
+1 : git init => TO INITIALIZE NEW REPO
+2 : git clone <COPY LINK> => CLONING REPO
+
+## Logs
+1 : git status => TO CHECK STATUS
+2 : git log    => TO CHECK HISTORY
+3 : git diff   => TO SEE CHANGES
 
 
  
