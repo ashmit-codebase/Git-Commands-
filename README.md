@@ -9,6 +9,8 @@ Functions :- <br>
 1- It tracks the history<br>
 2- It collaborate with the changes
 
+# GITHUB
+It is a website or an app that allows developers to store and manage their code and project using git.
 
 # Git-Commands-
 A collection of useful Git commands with explanations
