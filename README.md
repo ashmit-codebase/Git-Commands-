@@ -29,7 +29,8 @@ A collection of useful Git commands with explanations
 1 : git status => DISPLAY STATE OF THE CODE <br>
 2 : git log    => TO CHECK HISTORY <br>
 3 : git diff   => TO SEE CHANGES <br>
-4 : git merge <-BRANCH NAME->  (MERGING BRANCHES)
+4 : git merge <-BRANCH NAME->  (MERGING BRANCHES) <br>
+5 : git fetch
 
 ## Initing
 1 : git remote add origin <- LINK->  
@@ -49,4 +50,11 @@ A collection of useful Git commands with explanations
 4 : git checkout -b <-NEW BRANCH NAME->  => CREATE NEW BRANCH <br>
 5 : git branch -d <-BRANCH NAMED>        => DELETE BRANCH <br>
 
+## Full Forms
+1 : cd = CHANGE DIRECTORY <br>
+2 : ls = LIST FILES <br>
+3 : ls -a = HIDDEN FILES <br>
+4 ; mkdir = MAKE NEW DIRECTORY <br>
 
+# WORKFLOW 
+Github Repo -> Clone -> Change -> Add -> Commit -> Push 
