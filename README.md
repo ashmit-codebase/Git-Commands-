@@ -58,3 +58,7 @@ A collection of useful Git commands with explanations
 
 # WORKFLOW 
 Github Repo -> Clone -> Change -> Add -> Commit -> Push 
+
+
+
+### IT IS THE BASICS OF GITHUB IN WHICH WE HAVE LEARN ABOUT GIT AND GITHUB AND THEN THEIR COMMANDS AND SOME SMALL TERMS.
